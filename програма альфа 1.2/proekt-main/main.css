@@ -1,0 +1,189 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    background: url("https://phonoteka.org/uploads/posts/2021-05/1620737416_2-phonoteka_org-p-cherno-belii-fon-geometriya-2.png");
+    background-size: 100%;
+}
+
+
+    
+
+.e1, .e2{
+    position: absolute;
+    font-size: 30px;
+    color: rgb(124, 139, 70);
+    left: 750px;
+    top: 400px;
+    background: rgba(255, 255, 255, 0);
+}
+.mav{
+    padding: 0px 0px 0px 0px;
+    height: 220px;
+    width: 100%;
+    background: #3d3d3d7b;
+    -webkit-transition:1s ease-in-out;
+}
+.r{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 1350px;
+    box-shadow: 10px 5px 5px rgb(112, 110, 29);
+    border: 5px rgb(255, 252, 80);
+}
+
+.d{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 150px;
+    box-shadow: 10px 5px 5px rgb(112, 110, 29);
+    -webkit-transition:1s ease-in-out;
+}
+
+.e2{
+    top: 440px;
+    left: 770px;
+}
+
+
+.iu{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 1050px;
+    box-shadow: 10px 5px 5px rgb(112, 110, 29);
+    -webkit-transition:1s ease-in-out;
+
+}
+
+a{
+    left: 20px;
+}
+
+.o{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 450px;
+    box-shadow: 10px 5px 5px rgb(112, 110, 29);
+    -webkit-transition:1s ease-in-out;
+
+}
+
+.m1{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 750px;
+    box-shadow: 10px 5px 5px rgb(112, 110, 29);
+    -webkit-transition:1s ease-in-out;
+}
+
+
+
+.igri1:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.d:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+
+
+.igri2:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.o:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+
+.igri3:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.m1:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+
+
+.igri4:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.iu:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.igri5{
+    width: 200px;
+    height: 200px;
+    border: 5px yellow;
+    position: absolute;
+    left: 1350px;
+    box-shadow: 10px 5px 5px rgb(255, 246, 81);
+}
+
+.igri5:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.r:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.mav:hover{
+    transition: 1s;
+    height: 260px;
+    width: 100%;
+    background: #3d3d3d7b;
+}
